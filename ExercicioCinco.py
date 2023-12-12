@@ -1,0 +1,1 @@
+#manipulação de excessão (notas)
